@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPQEtUFrfsXRzwj7OgQahd8VZARubPkc8vo9rImoqlSp9sWY+mi7fUErxsx5OF2BfIRbXSqzWaoDuRXwWDa/AA==",
+  "success": true,
+  "projectFilePath": "E:\\asp dot net core\\Projects\\V2\\GPCCustomizer\\GPCCustomizer\\GPCCustomizer\\GPCCustomizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
